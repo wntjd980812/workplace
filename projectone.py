@@ -1,0 +1,2 @@
+print("pratice")
+print("diction")
